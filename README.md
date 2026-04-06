@@ -24,17 +24,15 @@
 ---
 
 
----
-
 ### 🚀 Featured Projects
 
-- 🚗 **Online Ride Booking System**  
-- 🍱 **Waste Food Management System**  
+- 📔 **Portfolio (Link)(https://habit-tracker-frontend-sage.vercel.app/)**
+- 🧑‍💻 **Campus Placement Management System**  
+- 📔 **Habit Tracker**  
 - 🔧 **Travel Assist Portal**
 
 ---
 
----
 
 ### 🐍 My Contribution Snake
 <picture>
