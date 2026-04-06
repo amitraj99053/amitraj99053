@@ -27,9 +27,9 @@
 ### 🚀 Featured Projects
 
 - 📔 **[𝖯ortfolio](https://amit-portfolio-lac.vercel.app/)** 
-- 🧑‍💻 **Campus Placement Management System**  
-- 📔 **Habit Tracker**  
-- 🔧 **Travel Assist Portal**
+- 🧑‍💻 **[Campus Placement Management System](https://campus-placement-management-system-swart.vercel.app/)**  
+- 📔 **[Habit Tracker](https://habit-tracker-frontend-sage.vercel.app/)**  
+- 🔧 **[Travel Assist Portal](https://travel-assist-portal.vercel.app/)**
 
 ---
 
