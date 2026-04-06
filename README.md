@@ -23,16 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-  ![highcontrast](https://i.imgur.com/ovrVrTY.png)   
----
-
-### 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitraj&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 ### 🚀 Featured Projects
@@ -42,17 +33,6 @@
 - 🔧 **Travel Assist Portal**
 
 ---
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 
 ---
 
